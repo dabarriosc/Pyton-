@@ -1,0 +1,5 @@
+Administrar recursos
+ofreser una interfaz de control
+Abstraer hardware
+Ofreser multitarea
+ofreser multiproceso
