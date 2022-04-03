@@ -1,0 +1,37 @@
+MANEJO DE CORREOS B
+  
+ gestios hosting
+
+ . gestorwebbyb@gmail.com
+ . contraseña: Felipe1234?
+
+ CORREOS GERENCIALES
+   . gerencia_comercial
+     contraseña: Gerencia345
+     
+     gerenciabybcent@gmail.com
+     contraseña: Danielfelipe04.
+
+   . gerencia_financiera
+     contraseña: Gerencia345
+
+     gerenciabybcent@gmail.com
+     contraseña: Cambio01*
+   
+
+   . gerencia_admin
+     congraseña: Gerencia1234
+      
+     gerenciabybcent@gmail.com
+     contraseña: Esmeraldabarrios123
+
+ CORREOS CORPARATIVOS
+   
+   . callcenter_1
+   . callcenter_2
+   . callcenter_3
+   . callcenter_4
+   . callcenter_5
+
+
+
